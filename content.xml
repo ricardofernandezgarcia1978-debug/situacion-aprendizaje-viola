@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260421221324B5GW8C</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604212213241W2JUK</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Concrección curricular de la SDA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Título:
+Preparación de audición de viola: Concertino en Sol Mayor Op. 15 (2º y 3º movimiento) de Ferdinand Küchler
+________________________________________
+Etapa educativa y nivel
+Enseñanzas Elementales de Música, 4º curso de la especialidad de viola.
+________________________________________
+Materias implicadas
+•	Instrumento principal (viola) 
+•	Lenguaje musical 
+________________________________________
+Agrupamientos y organización espacial
+Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se emplearán diferentes tipos de agrupamiento:
+•	Trabajo individual: estudio técnico e interpretación 
+•	Trabajo en pequeño grupo: ensayo con acompañamiento o con otros alumnos 
+•	Gran grupo: simulaciones de audición 
+El aula se organizará de manera flexible, facilitando el acceso a recursos visuales y tecnológicos, así como un entorno cómodo que favorezca la concentración.
+________________________________________
+Temporalización
+La situación de aprendizaje se desarrollará en 8 sesiones de 60 minutos a lo largo de 4 semanas.
+________________________________________
+Productos finales del alumnado
+•	Interpretación en audición del 2º y 3º movimiento del Concertino 
+•	Infografía interactiva sencilla sobre la obra y el compositor (Canva/Genially) 
+•	Vídeo interpretativo de ensayo o audición final 
+________________________________________
+Herramientas tecnológicas
+•	Canva / Genially 
+•	Grabación de vídeo (móvil/tablet) 
+•	Afinador y metrónomo digital 
+•	YouTube (modelos interpretativos) 
+________________________________________
+Atención a la diversidad
+La alumna presenta características propias de aprendizaje en edad adulta (50 años), lo que requiere:
+•	Adaptación del ritmo de aprendizaje 
+•	Refuerzo de la memoria auditiva y visual 
+•	Fragmentación de tareas 
+•	Ajuste de tempo y dificultad técnica 
+•	Estrategias de apoyo emocional y refuerzo positivo 
+</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776797980220</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo8zn3t9-xcrh0dhz9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción de la situación de aprendizaje</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la situación de aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la situación de aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción de la situación de aprendizaje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8zn3t9-xcrh0dhz9</odePageId>
+      <odeBlockId>block-1776110686720-0o3q24zpl</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8zn3t9-xcrh0dhz9</odePageId>
+          <odeBlockId>block-1776110686720-0o3q24zpl</odeBlockId>
+          <odeIdeviceId>idevice-1776110686717-9z8177ymo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Título:</strong></p>
+<p>Preparación de audición de viola: Concertino en Sol Mayor Op. 15 (2º y 3º movimiento) de Ferdinand Küchler</p>
+<p> <br /><strong>Etapa educativa y nivel:</strong></p>
+<p>Enseñanzas Elementales de Música, 4º curso de la especialidad de viola.</p>
+<p> <br /><strong>Materias implicadas:</strong></p>
+<p>Instrumento principal (viola) <br />Lenguaje musical <br /> <br /><strong>Agrupamientos y organización espacial:</strong></p>
+<p>Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se emplearán diferentes tipos de agrupamiento:</p>
+<p>Trabajo individual: estudio técnico e interpretación <br />Trabajo en pequeño grupo: ensayo con acompañamiento<br />Gran grupo: simulaciones de audición <br />El aula se organizará de manera flexible, facilitando el acceso a recursos visuales y tecnológicos, así como un entorno cómodo que favorezca la concentración.</p>
+<p> <br /><strong>Temporalización:</strong></p>
+<p>La situación de aprendizaje se desarrollará en 8 sesiones de 60 minutos a lo largo de 4 semanas.</p>
+<p> <br /><strong>Productos finales del alumnado:</strong></p>
+<p>Interpretación en audición del 2º y 3º movimiento del Concertino <br />Infografía interactiva sencilla sobre la obra y el compositor (Canva/Genially) <br />Vídeo interpretativo de ensayo o audición final <br /> <br /><strong>Herramientas tecnológicas:</strong></p>
+<p>Canva / Genially <br />Grabación de vídeo (móvil/tablet) <br />Afinador y metrónomo digital <br />YouTube (modelos interpretativos) <br /> <br /><strong>Atención a la diversidad:</strong></p>
+<p>La alumna presenta características propias de aprendizaje en edad adulta (50 años), lo que requiere:</p>
+<p>Adaptación del ritmo de aprendizaje <br />Refuerzo de la memoria auditiva y visual <br />Fragmentación de tareas <br />Ajuste de tempo y dificultad técnica <br />Estrategias de apoyo emocional y refuerzo positivo </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776110686717-9z8177ymo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Título:</strong></p>\n<p>Preparación de audición de viola: Concertino en Sol Mayor Op. 15 (2º y 3º movimiento) de Ferdinand Küchler</p>\n<p> <br /><strong>Etapa educativa y nivel:</strong></p>\n<p>Enseñanzas Elementales de Música, 4º curso de la especialidad de viola.</p>\n<p> <br /><strong>Materias implicadas:</strong></p>\n<p>Instrumento principal (viola) <br />Lenguaje musical <br /> <br /><strong>Agrupamientos y organización espacial:</strong></p>\n<p>Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se emplearán diferentes tipos de agrupamiento:</p>\n<p>Trabajo individual: estudio técnico e interpretación <br />Trabajo en pequeño grupo: ensayo con acompañamiento<br />Gran grupo: simulaciones de audición <br />El aula se organizará de manera flexible, facilitando el acceso a recursos visuales y tecnológicos, así como un entorno cómodo que favorezca la concentración.</p>\n<p> <br /><strong>Temporalización:</strong></p>\n<p>La situación de aprendizaje se desarrollará en 8 sesiones de 60 minutos a lo largo de 4 semanas.</p>\n<p> <br /><strong>Productos finales del alumnado:</strong></p>\n<p>Interpretación en audición del 2º y 3º movimiento del Concertino <br />Infografía interactiva sencilla sobre la obra y el compositor (Canva/Genially) <br />Vídeo interpretativo de ensayo o audición final <br /> <br /><strong>Herramientas tecnológicas:</strong></p>\n<p>Canva / Genially <br />Grabación de vídeo (móvil/tablet) <br />Afinador y metrónomo digital <br />YouTube (modelos interpretativos) <br /> <br /><strong>Atención a la diversidad:</strong></p>\n<p>La alumna presenta características propias de aprendizaje en edad adulta (50 años), lo que requiere:</p>\n<p>Adaptación del ritmo de aprendizaje <br />Refuerzo de la memoria auditiva y visual <br />Fragmentación de tareas <br />Ajuste de tempo y dificultad técnica <br />Estrategias de apoyo emocional y refuerzo positivo </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo8zn3te-7y9pf5fq7</odePageId>
+  <odeParentPageId>page-mo8zn3t9-xcrh0dhz9</odeParentPageId>
+  <pageName>Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8zn3te-7y9pf5fq7</odePageId>
+      <odeBlockId>block-1776166886287-bflf6wxd1</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8zn3te-7y9pf5fq7</odePageId>
+          <odeBlockId>block-1776166886287-bflf6wxd1</odeBlockId>
+          <odeIdeviceId>idevice-1776166886285-wmuehnd2v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Justificación</strong></p>
+<p>Esta situación de aprendizaje tiene como objetivo desarrollar las capacidades interpretativas básicas del alumnado en enseñanzas elementales, fomentando la seguridad escénica y el disfrute musical, especialmente en una alumna adulta en proceso de aprendizaje.</p>
+<p> <br /><strong>Impacto esperado</strong></p>
+<p>Mejora de la confianza en la interpretación <br />Desarrollo de hábitos de estudio <br />Participación activa en la vida del conservatorio <br /> <br /><strong>Relación con los ODS</strong></p>
+<p>ODS 4: Educación de calidad <br />ODS 3: Bienestar <br /> <br /><strong>Retos del siglo XXI</strong></p>
+<p>Aprender a aprender <br />Competencia digital básica <br />Gestión emocional </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776166886285-wmuehnd2v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Justificación</strong></p>\n<p>Esta situación de aprendizaje tiene como objetivo desarrollar las capacidades interpretativas básicas del alumnado en enseñanzas elementales, fomentando la seguridad escénica y el disfrute musical, especialmente en una alumna adulta en proceso de aprendizaje.</p>\n<p> <br /><strong>Impacto esperado</strong></p>\n<p>Mejora de la confianza en la interpretación <br />Desarrollo de hábitos de estudio <br />Participación activa en la vida del conservatorio <br /> <br /><strong>Relación con los ODS</strong></p>\n<p>ODS 4: Educación de calidad <br />ODS 3: Bienestar <br /> <br /><strong>Retos del siglo XXI</strong></p>\n<p>Aprender a aprender <br />Competencia digital básica <br />Gestión emocional </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo8zn3tf-ezckyhrkv</odePageId>
+  <odeParentPageId>page-mo8zn3t9-xcrh0dhz9</odeParentPageId>
+  <pageName>Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8zn3tf-ezckyhrkv</odePageId>
+      <odeBlockId>block-1776167276189-src7m7yh4</odeBlockId>
+      <blockName>Competencias clave</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8zn3tf-ezckyhrkv</odePageId>
+          <odeBlockId>block-1776167276189-src7m7yh4</odeBlockId>
+          <odeIdeviceId>idevice-1776167276184-4njr6m6d0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<ul style="list-style-type: square;">
+<li>Conciencia y expresiones culturales </li>
+<li>Competencia personal, social y aprender a aprender</li>
+<li>Competencia digital<br /><br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776167276184-4njr6m6d0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<ul style=\"list-style-type: square;\">\n<li>Conciencia y expresiones culturales </li>\n<li>Competencia personal, social y aprender a aprender</li>\n<li>Competencia digital<br /><br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo8zn3tf-ezckyhrkv</odePageId>
+      <odeBlockId>block-1776167792678-cidr5e9f8</odeBlockId>
+      <blockName>Competencias específicas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8zn3tf-ezckyhrkv</odePageId>
+          <odeBlockId>block-1776167792678-cidr5e9f8</odeBlockId>
+          <odeIdeviceId>idevice-1776167792676-rrbf2vxbz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<ul style="list-style-type: square;">
+<li>Interpretar piezas musicales con corrección técnica básica </li>
+<li>Desarrollar hábitos de estudio progresivos</li>
+<li>Participar en audiciones<br /><br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776167792676-rrbf2vxbz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<ul style=\"list-style-type: square;\">\n<li>Interpretar piezas musicales con corrección técnica básica </li>\n<li>Desarrollar hábitos de estudio progresivos</li>\n<li>Participar en audiciones<br /><br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo8zn3tf-ezckyhrkv</odePageId>
+      <odeBlockId>block-1776167932630-w4redtlpw</odeBlockId>
+      <blockName>Saberes básicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8zn3tf-ezckyhrkv</odePageId>
+          <odeBlockId>block-1776167932630-w4redtlpw</odeBlockId>
+          <odeIdeviceId>idevice-1776167932627-qlquyn3cv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<ul style="list-style-type: square;">
+<li>Técnica básica de la viola </li>
+<li>Ritmo y lectura musical</li>
+<li>Expresión musical básica</li>
+<li>Audición y escucha activa<br /><br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776167932627-qlquyn3cv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<ul style=\"list-style-type: square;\">\n<li>Técnica básica de la viola </li>\n<li>Ritmo y lectura musical</li>\n<li>Expresión musical básica</li>\n<li>Audición y escucha activa<br /><br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo8zn3tf-ezckyhrkv</odePageId>
+      <odeBlockId>block-1776168058909-pj213n47b</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8zn3tf-ezckyhrkv</odePageId>
+          <odeBlockId>block-1776168058909-pj213n47b</odeBlockId>
+          <odeIdeviceId>idevice-1776168058908-7vd0n9r61</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.047%;">
+<tbody>
+<tr>
+<td style="width: 99.8582%;">Afinación y ritmo adecuados</td>
+</tr>
+<tr>
+<td style="width: 99.8582%;">Uso correcto del arco</td>
+</tr>
+<tr>
+<td style="width: 99.8582%;">Expresión musical</td>
+</tr>
+<tr>
+<td style="width: 99.8582%;">Utilización de la memoria</td>
+</tr>
+<tr>
+<td style="width: 99.8582%;">Participación activa en audiciones</td>
+</tr>
+<tr>
+<td style="width: 99.8582%;">Progreso respecto al punto de partida</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776168058908-7vd0n9r61","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.047%;\">\n<tbody>\n<tr>\n<td style=\"width: 99.8582%;\">Afinación y ritmo adecuados</td>\n</tr>\n<tr>\n<td style=\"width: 99.8582%;\">Uso correcto del arco</td>\n</tr>\n<tr>\n<td style=\"width: 99.8582%;\">Expresión musical</td>\n</tr>\n<tr>\n<td style=\"width: 99.8582%;\">Utilización de la memoria</td>\n</tr>\n<tr>\n<td style=\"width: 99.8582%;\">Participación activa en audiciones</td>\n</tr>\n<tr>\n<td style=\"width: 99.8582%;\">Progreso respecto al punto de partida</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo8zn3ti-9oyyiumte</odePageId>
+  <odeParentPageId>page-mo8zn3t9-xcrh0dhz9</odeParentPageId>
+  <pageName>Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8zn3ti-9oyyiumte</odePageId>
+      <odeBlockId>block-1776192074185-lcget0n8i</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8zn3ti-9oyyiumte</odePageId>
+          <odeBlockId>block-1776192074185-lcget0n8i</odeBlockId>
+          <odeIdeviceId>idevice-1776192074117-k19tc5l1s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul style="list-style-type: square;">
+<li>Aprendizaje basado en tareas (preparación de la audición)</li>
+<li>Aprendizaje cooperativo (ensayos)</li>
+<li>Modelado (imitación del profesor y videos)<br /><br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776192074117-k19tc5l1s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul style=\"list-style-type: square;\">\n<li>Aprendizaje basado en tareas (preparación de la audición)</li>\n<li>Aprendizaje cooperativo (ensayos)</li>\n<li>Modelado (imitación del profesor y videos)<br /><br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo8zn3ti-3mch6hb8j</odePageId>
+  <odeParentPageId>page-mo8zn3t9-xcrh0dhz9</odeParentPageId>
+  <pageName>Vinculación con proyectos del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con proyectos del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con proyectos del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8zn3ti-3mch6hb8j</odePageId>
+      <odeBlockId>block-1776192148509-x5yo6swdr</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8zn3ti-3mch6hb8j</odePageId>
+          <odeBlockId>block-1776192148509-x5yo6swdr</odeBlockId>
+          <odeIdeviceId>idevice-1776192148506-1ekul4fpd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul style="list-style-type: square;">
+<li>Participación en audiciones del centro</li>
+<li>Atención a la diversidad (PAD)</li>
+<li>Fomento de la cultura musical</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776192148506-1ekul4fpd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul style=\"list-style-type: square;\">\n<li>Participación en audiciones del centro</li>\n<li>Atención a la diversidad (PAD)</li>\n<li>Fomento de la cultura musical</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo8zn3tk-16oe8ahh6</odePageId>
+  <odeParentPageId>page-mo8zn3t9-xcrh0dhz9</odeParentPageId>
+  <pageName>Actividades complementarias</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8zn3tk-16oe8ahh6</odePageId>
+      <odeBlockId>block-1776192618964-cbau5rlrq</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8zn3tk-16oe8ahh6</odePageId>
+          <odeBlockId>block-1776192618964-cbau5rlrq</odeBlockId>
+          <odeIdeviceId>idevice-1776192618960-7hpyqw21g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul style="list-style-type: square;">
+<li>Asistencia a audiciones</li>
+<li>Visionado de videos</li>
+<li>Ensayo abierto</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776192618960-7hpyqw21g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul style=\"list-style-type: square;\">\n<li>Asistencia a audiciones</li>\n<li>Visionado de videos</li>\n<li>Ensayo abierto</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo8zn3tl-2t2udrwb9</odePageId>
+  <odeParentPageId>page-mo8zn3t9-xcrh0dhz9</odeParentPageId>
+  <pageName>Licencia, autoría y descarga del REA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencia, autoría y descarga del REA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencia y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Licencia, autoría y descarga del REA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8zn3tl-2t2udrwb9</odePageId>
+      <odeBlockId>block-1776718341150-7sjqyn8ez</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8zn3tl-2t2udrwb9</odePageId>
+          <odeBlockId>block-1776718341150-7sjqyn8ez</odeBlockId>
+          <odeIdeviceId>idevice-1776718341147-zzhbljzgs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong><br />Este recurso ha sido elaborado por:<br />Ricardo Fernández García</p>
+<p><strong>Título del recurso</strong><br />Preparación de audición de viola: Concertino en Sol Mayor Op. 15 (2º y 3º movimientos)</p>
+<p><strong>Licencia</strong><br />Este Recurso Educativo Abierto (REA) se distribuye bajo la licencia Creative Commons Reconocimiento-CompartirIgual 4.0 (CC BY-SA 4.0).</p>
+<p>Esto significa que puede ser utilizado, adaptado y compartido libremente, siempre que se reconozca la autoría y se mantenga la misma licencia en las obras derivadas.</p>
+<p><strong>Descarga del archivo fuente</strong><br /><strong></strong></p>
+<p><a href="https://drive.google.com/uc?export=download&id=13eecQnn3jMiwLtIiE974UPGEWdMdpDmE" title="">https://drive.google.com/uc?export=download&id=13eecQnn3jMiwLtIiE974UPGEWdMdpDmE</a></p>
+<p><br /></p>
+<p><br /></p>
+<p><strong></strong><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776718341147-zzhbljzgs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong><br />Este recurso ha sido elaborado por:<br />Ricardo Fernández García</p>\n<p><strong>Título del recurso</strong><br />Preparación de audición de viola: Concertino en Sol Mayor Op. 15 (2º y 3º movimientos)</p>\n<p><strong>Licencia</strong><br />Este Recurso Educativo Abierto (REA) se distribuye bajo la licencia Creative Commons Reconocimiento-CompartirIgual 4.0 (CC BY-SA 4.0).</p>\n<p>Esto significa que puede ser utilizado, adaptado y compartido libremente, siempre que se reconozca la autoría y se mantenga la misma licencia en las obras derivadas.</p>\n<p><strong>Descarga del archivo fuente</strong><br /><strong></strong></p>\n<p><a href=\"https://drive.google.com/uc?export=download&id=13eecQnn3jMiwLtIiE974UPGEWdMdpDmE\" title=\"\">https://drive.google.com/uc?export=download&id=13eecQnn3jMiwLtIiE974UPGEWdMdpDmE</a></p>\n<p><br /></p>\n<p><br /></p>\n<p><strong></strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
